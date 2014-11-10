@@ -14,7 +14,7 @@ Initial version developed at Building Blocks (http://www.building-blocks.com)
  * Bart Koopman (SDL, http://sdltridionworld.com/community/developers/bart_koopman.aspx)
  * Jaime Santos Alcon (SDL, http://sdltridionworld.com/community/developers/jaime_santos_alcon.aspx)  
 
- **UNRELEASED - Planned Changes in v0.4**
+**UNRELEASED - Planned Changes in v0.4**
  
  * Installation script
  * Fix bug with height of Source tab being limited to 21 lines
