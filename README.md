@@ -52,19 +52,10 @@ Uses the fantasic Code Mirror: http://codemirror.net/
 **Please note this is an Beta, please test in a dev environment**
 
 ##Installation Instructions
-
-There are 2 methods to install, which one you choose depends on your preference. I recommend using the first method but you may not want to install node.js on your server.
-
-**Please note both methods will overwrite anything in `%TRIDION_HOME%\web\WebUI\Editors\CodeMirror`
-
-###Install using npm (The Package Manager for Node.JS)
- 
- 1. Install node.js from http://nodejs.org/ 
- 2. Open a command prompt and run `npm install -g code-mirror-tridion`
  
 ###Install manually
 
- 1. Download the latest release zip file from [TODO]
+ 1. Download the latest release zip file from Tridion World https://www.sdltridionworld.com/community/2011_extensions/codemirror.aspx
  2. Unzip to a location of your choice on your server
  3. Open the folder where you unzipped to
  4. Run call_install.bat
