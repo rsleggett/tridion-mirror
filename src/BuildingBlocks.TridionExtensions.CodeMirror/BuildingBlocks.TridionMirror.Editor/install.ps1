@@ -1,6 +1,6 @@
 [CmdletBinding()]
 param(
-	[string]$tridionInstallLocation = "C:\Program Files (x86)\Tridion\",
+	[string]$tridionInstallLocation = "D:\Tridion\",
 	[string]$iisWebsiteName = "SDL Tridion",
 	[string]$name = "CodeMirror"
 )
